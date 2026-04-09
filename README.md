@@ -1,6 +1,6 @@
 #  Hi, I'm David Glory Chiamaka
 
-**Frontend Developer** — building responsive, human-friendly web experiences.
+**Frontend Engineer** — building responsive, human-friendly web experiences.
 
 ---
 
@@ -21,15 +21,14 @@
 
 ---
 
-## Featured Projects
+##  Featured Projects
 
 | Project | Live Demo | GitHub |
 |---------|-----------|--------|
-| Great Grace | [View Live](https://greatgrace.vercel.app) | *Making public soon* |
-| Movie App | [View Live](https://movie-wine-one.vercel.app) | *Making public soon* |
-| Naridit | [View Live](https://naridit.vercel.app) | *Making public soon* |
+| Great Grace | [View Live](https://greatgrace.vercel.app) | [Repository](https://github.com/chi-touch/Greatgrace) |
+| Movie App | [View Live](https://movie-wine-one.vercel.app) | [Repository](https://github.com/chi-touch/movie) |
+| Naridit | [View Live](https://naridit.vercel.app) | [Repository](https://github.com/chi-touch/naridit) |
 | Quiz App (Vue) | *Demo coming soon* | [Repository](https://github.com/chi-touch/A-quiz-app) |
-| JavaScript Projects | *Demo coming soon* | [Repository](https://github.com/chi-touch/javaScript) |
 
 ---
 
