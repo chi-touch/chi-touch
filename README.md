@@ -1,6 +1,6 @@
 #  Hi, I'm David Glory Chiamaka
 
-**Frontend Developer** based in Singapore — building responsive, human-friendly web experiences.
+**Frontend Developer**  — building responsive, human-friendly web experiences.
 
 ---
 
