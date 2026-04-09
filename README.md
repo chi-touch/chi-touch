@@ -6,29 +6,29 @@
 
 ##  What I work with
 
-- **React** · **Next.js** · **Tailwind CSS** · **JavaScript (ES6+)**
+- **React** · **Next.js** · **Vue** · **Tailwind CSS** · **JavaScript (ES6+)**
 - Clean, maintainable code  
 - Accessible and performant frontends  
 - Turning designs into polished, functional interfaces
 
 ---
 
-## Currently
+##  Currently
 
-- Building frontend projects with modern React and Next.js  
-- Deepening my knowledge in learning best practices in frontend
+- Building frontend projects with modern React, Next.js, and Vue  
+- Deepening my knowledge of frontend best practices  
 - Open to frontend opportunities anywhere in the world
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 | Project | Live Demo | GitHub |
 |---------|-----------|--------|
-| Great Grace | [View Live](https://greatgrace.vercel.app) | *Repo coming soon* |
-| Movie App | [View Live](https://movie-wine-one.vercel.app) | *Repo coming soon* |
-| Naridit | [View Live](https://naridit.vercel.app) | *Repo coming soon* |
-| A Quiz App| *Demo coming soon* | [Repository](https://github.com/chi-touch/A-quiz-app) |
+| Great Grace | [View Live](https://greatgrace.vercel.app) | *Making public soon* |
+| Movie App | [View Live](https://movie-wine-one.vercel.app) | *Making public soon* |
+| Naridit | [View Live](https://naridit.vercel.app) | *Making public soon* |
+| Quiz App (Vue) | *Demo coming soon* | [Repository](https://github.com/chi-touch/A-quiz-app) |
 | JavaScript Projects | *Demo coming soon* | [Repository](https://github.com/chi-touch/javaScript) |
 
 ---
