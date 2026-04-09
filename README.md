@@ -23,18 +23,22 @@
 
 ##  Featured projects
 
-- https://github.com/chi-touch/movie
-- https://github.com/chi-touch/naridit
-- https://github.com/chi-touch/Greatgrace
+| Project | Live Demo | GitHub |
 
-> _I'll be adding more work here soon — check back or connect with me directly!_
+
+- Great Grace | [View Live](https://greatgrace.vercel.app) | [Repository](https://github.com/chi-touch/Greatgrace) |
+- Movie |[View Live](https://movie-wine-one.vercel.app) |[Repository](https://github.com/chi-touch/movie)|
+- Naridit |[View Live](https://naridit.vercel.app) |[Repository](https://github.com/chi-touch/naridit)|
+- Sui Frontend  | [Repository](https://github.com/chi-touch/sui-frontend) |
+- JavaScript Projects | [Repository](https://github.com/chi-touch/javaScript) |
 
 ---
 
-## Let's connect
+## 📫 Let's connect
 
-- [GitHub](https://github.com/chi-touch) – you're already here 
-- https://www.linkedin.com/in/glory-david-48890a25b/
+- [GitHub](https://github.com/chi-touch)
+- [LinkedIn](https://www.linkedin.com/in/glory-david-48890a25b/)
+
 
 ---
 
